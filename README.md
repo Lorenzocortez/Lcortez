@@ -8,4 +8,4 @@
 
 Repositorio de entrega del alumno **Lorenzo Cortez Diaz**
 
-Profa: **Mtra Rosa Martha Peralta Blanco**
+Profa: **Mtra Rosa Martha Peralta Blanco** ; **Dra. Bertha Hernández Aguilar**
