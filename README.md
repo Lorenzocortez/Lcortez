@@ -6,6 +6,6 @@
 #### laboratorio de geografía aplicada VI
 ---
 
-Repositorio de entrega del alumno ** Lorenzo Cortez Diaz **
+Repositorio de entrega del alumno **Lorenzo Cortez Diaz**
 
-Profa: ** Mtra Rosa Martha Peralta Blanco **
+Profa: **Mtra Rosa Martha Peralta Blanco**
